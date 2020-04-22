@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+
+.failure {
+    background-color: var(--danger);
+}
+
+.warning {
+    background-color: var(--warning);
+}
+
+.success {
+    background-color: var(--success);
+}
